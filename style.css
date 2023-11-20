@@ -1,0 +1,19 @@
+.img-seg{
+    border-radius: 50%;
+    margin: 1rem;
+}
+
+.diversos{
+    margin-top: 1rem;
+    margin-right: 4rem;
+    margin-left: 4rem;
+    padding: 2rem;
+}
+
+.gradient-background{
+    background:goldenrod;
+}
+
+.saude{
+    margin: 3rem;
+}
